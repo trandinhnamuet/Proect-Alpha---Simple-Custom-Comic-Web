@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="here"></div>
+    <img src="" alt="">
+    <script>
+        let here = document.getElementById("here");
+
+        // $.get("https://cmangab.com/ta-la-ta-de-14348", function (response) {
+        //     // console.log(response);
+
+        //     first = String(response).indexOf('<img itemprop="image"');
+        //     cutString = response.slice(first, first + 200);
+        //     last = cutString.indexOf('>')
+
+        //     final = cutString.slice(0, last + 1);
+        //     console.log(final)
+        // });
+
+        req = new XMLHttpRequest();
+        req.open("GET", "https://cmangab.com/ta-la-ta-de-14348", false);
+        console.log(req.respon)
+    </script>
+</body>
