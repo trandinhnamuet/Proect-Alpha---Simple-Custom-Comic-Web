@@ -13,3 +13,6 @@ https://cmangab.com/dinh-cap-khi-van-lang-le-tu-luyen-ngan-nam-24971
 https://cmangab.com/pham-nhan-tu-tien-12116
 
 https://cmangab.com/toi-cuong-phan-sao-lo-he-thong-190
+
+*Result
+![alt text](https://github.com/trandinhnamuet/Proect-Alpha---Simple-Custom-Comic-Web/blob/main/Demo.png?raw=true)
